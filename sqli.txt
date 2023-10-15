@@ -1,0 +1,29 @@
+
+
+
+Sql Dork vulnerabilities
+
+intitle:"index of" "/sql" "admin"
+
+
+Types of sql injection
+
+
+In-Band 
+
+Error based 
+ 
+Testing payloads
+
+'
+
+
+
+Union
+
+Inferential(blind)
+
+
+
+
+Out-of-band  
